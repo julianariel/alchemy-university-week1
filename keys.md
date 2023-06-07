@@ -1,0 +1,21 @@
+# Keys
+
+Generated using the `generateKeys.js` script. Used as default keys for the solution. Message used to generate the signature: _Alchemy Rocks_
+
+---
+
+- Private Key: f31882a6506f37ec7057d3569df8ebee9ca3d7182d062d344911238e6bb44bf0
+- Public Key (Ethereum Style): 0x6d628b23243542c8b9a54077285470e5a05751dc
+- Signature: 304402204fc693cb68d70a62bb863f2267e876a68a3e0bca746e37651489b508744956780220755f674f1de5d34ae8b4a634b33ef62a67d861ecbc7dd62ffa186b5ce6e520fb
+
+---
+
+- Private Key: 93ea4a71b88a7148083e430a67a36b6c266f906882388dd6ed36210753ab66f9
+- Public Key (Ethereum Style): 0x551d8083e1cd9a35bb20663b0cd9c9dcae807db6
+- Signature: 30440220399370d000dcc6bc9c568e5f5fe0f60d2a2d797f8c739d91a7a0e1b056a11d490220018a94e716aa6086f1c82a805a66ff491d09917cd2a210d689d9e98558148ddd
+
+---
+
+- Private Key: 7decd65a93a73c15c2923561af756590229e9027d90594fe644fe137edc40a25
+- Public Key (Ethereum Style): 0xb1ea530faf7edd852ae7f0aeea4add5723eeba95
+- Signature: 30440220622f1a5398447b28f0ca9d70c3d71c3462131908225694dc4cd219333447d50802205a187919ab79b721e957759743b375b99746adb413274cd2f42634a5a91db0be
