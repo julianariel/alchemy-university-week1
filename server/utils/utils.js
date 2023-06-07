@@ -30,7 +30,7 @@ function recoverKey(signature) {
         return secp.recoverPublicKey(hashMessage(PUBLIC_MESSAGE), signature, 0)
     }
     catch (error) {
-        console.error("Invalid Signature: ", error)
+        console.error("recoverKey failed")
         return undefined
     }
 }
